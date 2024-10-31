@@ -1,0 +1,7 @@
+*.*swp
+*swo
+**/.DS_Store
+
+spec/admin.js
+spec/json/*
+spec/screenshots/*
